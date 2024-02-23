@@ -1,8 +1,3 @@
 # tic-tac-toe
 
-```
-     |     |
------|-----|-----
-  O  |     |
------|-----|-----
-     |  O  |  X
+![](https://learn.microsoft.com/zh-cn/typography/font-list/images/inkfree.png)
